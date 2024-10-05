@@ -10,7 +10,6 @@
 
 </div>
 
-## PCB验证中，程序Demo已完成
 
 #### 本项目基于嘉立创ESP32S3N8R8开发板
 优势
@@ -54,4 +53,6 @@
 
 | 1 | 2 |
 | --- | --- |
-| 暂|无 |
+| ![8c740786a412c07d8901ed4e521f1d2](https://github.com/user-attachments/assets/c22913c6-d828-4d60-bc36-52fd89eb10b2)| ![2451e38f615f2d4bd12a41a070491c7](https://github.com/user-attachments/assets/13fb7a77-3834-4cb9-a023-149ccc904ce6)|
+|![03b5d47773063d56ddd68dc38ef62e7](https://github.com/user-attachments/assets/0dd9fd54-307e-4783-93a4-d055fc9f91f2)|![屏幕截图 2024-09-22 145025](https://github.com/user-attachments/assets/a0602826-b641-4634-8ccf-567213308e3b)
+ |
