@@ -13,12 +13,12 @@
 [![Speech-Pen](https://res.cloudinary.com/marcomontalbano/image/upload/v1728294746/video_to_markdown/images/youtube--AUxFOGgEUyY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/AUxFOGgEUyY "Speech-Pen")
 [无法播放请点此使用BiliBili](https://www.bilibili.com/video/BV1xv1yYoErw)
 #### 本项目基于嘉立创ESP32S3N8R8开发板
-优势
-1.双核独立 陀螺仪 to USB HID 线程
+优势  
+1.双核独立 陀螺仪 to USB HID 线程  
 2.硬件SPI高速陀螺仪数据读取
 
 ## 注意事项
-本设备可选电池供电，不需要电池供电可无需焊接
+本设备可选电池供电，不需要电池供电可无需焊接  
 本设备采用的激光二极管为3V电压
 ## 功能
 - ✅指哪点哪超级飞鼠
