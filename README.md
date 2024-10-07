@@ -56,5 +56,4 @@
 | 1 | 2 |
 | --- | --- |
 | ![8c740786a412c07d8901ed4e521f1d2](https://github.com/user-attachments/assets/c22913c6-d828-4d60-bc36-52fd89eb10b2)| ![2451e38f615f2d4bd12a41a070491c7](https://github.com/user-attachments/assets/13fb7a77-3834-4cb9-a023-149ccc904ce6)|
-|![03b5d47773063d56ddd68dc38ef62e7](https://github.com/user-attachments/assets/0dd9fd54-307e-4783-93a4-d055fc9f91f2)|![屏幕截图 2024-09-22 145025](https://github.com/user-attachments/assets/a0602826-b641-4634-8ccf-567213308e3b)
- |
+| ![03b5d47773063d56ddd68dc38ef62e7](https://github.com/user-attachments/assets/0dd9fd54-307e-4783-93a4-d055fc9f91f2)| ![PXL_20241007_090420905 MP](https://github.com/user-attachments/assets/e1fd9354-3f13-4395-929f-05af4162eb92)|
