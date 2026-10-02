@@ -1,3 +1,5 @@
+[简体中文](README.md) | [English](README_en.md)
+
 <div align="center">
     <h1>Speech-Pen演讲笔</h1>
 
